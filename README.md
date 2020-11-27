@@ -4,8 +4,13 @@
 <ol>
   <li><h3>Objectif</h3>
       Ceci est une petite application de gestion d'un ensemble de stagiaie .
-      Elle met en pratique les technologies suivantes :
-      
+      Elle met en pratique les technologies/langages suivant(e)s :
+      <ul>
+        <li>PHP</li>
+        <li>HTML</li>
+        <li>CSS/BOOSTRAP</li>
+        <li>Javascript</li>
+      </ul>
   </li>
   <li><h3>Fonctionnalités</h3></li>
   <li><h3>Connexion et compte</h3></li>
