@@ -8,5 +8,5 @@
   <li><h3>Rôle et privilège des uers</h3></li>
   <li><h3>Organisation</h3></li>
   <li><h3>Autres</h3></li>
-  <li><h3>Présentation</h3></li>
+  <li><h3>Aperçu</h3></li>
 </ol>
