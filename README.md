@@ -65,7 +65,12 @@
       <li>Dans le fichier connBD.php changer les identifiants de connexion</li>
     </ul>
   </li>
-  <li><h3>Aperçu</h3>
+  <li><h3>Aperçu de l'interface</h3>
     Juste quelques images de l'interface.
+    <ul><li><h5>Accueil</h5><li>
+        <li><img weight="10" height="10" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/accueil.png"></li>
+      <li><h5>Création du compte</h5></li>
+      <li><img weight="10" height="10" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/creationCompte.png"></li>
+    </ul>
   </li>
 </ol>
