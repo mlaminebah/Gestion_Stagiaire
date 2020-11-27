@@ -54,7 +54,7 @@
         <li>Pages : un répertoire contenant que des fichiers .php</li>
         <li>image : qui contiendra les photos des stagaires</li>
         <li>Base de donnees : ReqInit.sql (requête de création de la BD et ses tables),ma database que j'ai exporté</li>
-        <li>Les fichiers : index.php et </li>
+        <li>Les fichiers : index.php et seCon.php</li>
      </ul>
   </li>
   <li><h3>Autres</h3></li>
