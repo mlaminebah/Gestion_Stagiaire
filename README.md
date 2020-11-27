@@ -57,6 +57,13 @@
         <li>Les fichiers : index.php et seCon.php</li>
      </ul>
   </li>
-  <li><h3>Autres</h3></li>
+  <li><h3>Autres</h3>
+    Pour tester l'appli il faut faire quelques modifs:
+    <ul>
+      <li>soit Importer la BD qui se trouve dans le repertoire Base de donnees</li>
+      <li>Créer une BD à partir du fichier ReqInit.sql</li>
+      <li>Dans le fichier connBD.php changer les identifiants de connexion</li>
+    </ul>
+  </li>
   <li><h3>Aperçu</h3></li>
 </ol>
