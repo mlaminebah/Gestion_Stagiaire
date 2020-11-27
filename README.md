@@ -1,13 +1,12 @@
-# Gestion_Stagiaire
+<h1>Gestion_Stagiaire</h1>
 
 
-<h3>Table des matières</h3>
 <ol>
-  <li>Objectif</li>
-  <li>Fonctionnalités</li>
-  <li>Connexion et compte</li>
-  <li>Rôle et privilège des uers</li>
-  <li>Organisation</li>
-  <li>Autres</li>
-  <li>Présentation</li>
+  <li><h3>Objectif</h3></li>
+  <li><h3>Fonctionnalités</h3></li>
+  <li><h3>Connexion et compte</h3></li>
+  <li><h3>Rôle et privilège des uers</h3></li>
+  <li><h3>Organisation</h3></li>
+  <li><h3>Autres</h3></li>
+  <li><h3>Présentation</h3></li>
 </ol>
