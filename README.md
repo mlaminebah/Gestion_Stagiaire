@@ -75,6 +75,8 @@
         <img weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/mpoublie.png"/></li>
       <li><h5>Espace Admin</h5>
         <img weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/Admin_Utilisateurs.png"/></li>
+      <li><h5>Admin Filière</h5>
+        <img weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/adminFiliere.png"/></li>
     </ul>
   </li>
 </ol>
