@@ -23,7 +23,14 @@
         <li>Ajouter un Stagiare,modifier et supprimer un stagiaire si user a le droit requis</li>
      </ul>
   </li>
-  <li><h3>Connexion et compte</h3></li>
+  <li><h3>Connexion et compte</h3>
+      l'utilisateur peut:
+      <ul>
+        <li>Créer un compte à partir de la page d'accueil</li>
+        <li>Modifier son mot de pass s'il l'oublie</li>
+        <li>Pour pouvoir se connecter l'utilisateur a besoin que son compte soit activer par l'admin</li>
+      </ul>
+  </li>
   <li><h3>Rôle et privilège des uers</h3></li>
   <li><h3>Organisation</h3></li>
   <li><h3>Autres</h3></li>
