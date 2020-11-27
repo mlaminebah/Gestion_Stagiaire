@@ -31,7 +31,23 @@
         <li>Pour pouvoir se connecter l'utilisateur a besoin que son compte soit activer par l'admin</li>
       </ul>
   </li>
-  <li><h3>Rôle et privilège des uers</h3></li>
+  <li><h3>Rôle et privilège des uers</h3>
+      Il y a deux types d'utilisateurs:
+      <ol>
+        <li>Admin qui peut
+          <ul>
+            <li>Supprimer un compte,definir les droits de l'utilisateur,désactiver un compte</li>
+            <li>Consulter,supprimer ,modifier (filière,stagiaire,user)</li>
+          </ul>
+        </li>
+        <li>Visiteur qui peut:
+           <ul>
+              <li>Modifier quelques info sur son compte</li>
+              <li>Consulter : filière,stagiaire,user</li>
+           </ul>
+        </li>
+      </ol>
+  </li>
   <li><h3>Organisation</h3></li>
   <li><h3>Autres</h3></li>
   <li><h3>Aperçu</h3></li>
