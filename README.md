@@ -65,5 +65,7 @@
       <li>Dans le fichier connBD.php changer les identifiants de connexion</li>
     </ul>
   </li>
-  <li><h3>Aperçu</h3></li>
+  <li><h3>Aperçu</h3>
+    Juste quelques images de l'interface.
+  </li>
 </ol>
