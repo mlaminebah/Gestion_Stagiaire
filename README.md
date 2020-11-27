@@ -67,12 +67,12 @@
   </li>
   <li><h3>Aperçu de l'interface</h3>
     Juste quelques images de l'interface.
-    <ul><li><h5>Accueil</h5></li>
-        <li><img weight="20" height="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/accueil.png"></li>
-      <li><h5>Création du compte</h5></li>
-      <li><img weight="20" height="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/creationCompte.png"></li>
-      <li><h5>Mot de Pass Oublié</h5></li>
-      <li><img weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/mpoublie.png"/></li>
+    <ul><li><h5>Accueil</h5>
+        <img  weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/accueil.png"></li>
+      <li><h5>Création du compte</h5>
+      <img  weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/creationCompte.png"></li>
+      <li><h5>Mot de Pass Oublié</h5>
+      <img weight="20" heigth="20" src="https://github.com/bahmine/Gestion_Stagiaire/blob/main/images/mpoublie.png"/></li>
     </ul>
   </li>
 </ol>
