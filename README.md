@@ -10,6 +10,7 @@
         <li>HTML</li>
         <li>CSS/BOOSTRAP</li>
         <li>Javascript</li>
+        <li>Mysql</li>
       </ul>
   </li>
   <li><h3>Fonctionnalités</h3>
